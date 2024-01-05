@@ -12,5 +12,3 @@ Convert the video to DensePose video.
 
 
 # Animate-code
-# Animate-code
-# Animate-code
